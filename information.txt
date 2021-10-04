@@ -7,9 +7,3 @@
 --added line 4 on github.com
 
 --added line 5 on github.com
-
-//----
-brnach 1 code
-
-//----
-branch 2 code
